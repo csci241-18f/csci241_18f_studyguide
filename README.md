@@ -16,7 +16,7 @@
 * Be able to analyze an algorithm’s correctness using a given loop invariant.
 * Be able to describe in words, implement using a loop invariant, and analyze the runtime of insertion and selection sort.
 * Know the definition and uses of preconditions and postconditions.
-* **L03 has some practice problems at the end.**
+
 
 ###### L04
 * Understand how recursive methods are *executed*.
@@ -81,5 +81,12 @@
 This list is incomplete. If you encounter a practice problem that is not listed, contributions are
 welcome and would likely be appreciated by your fellow classmates. To contribute, simply edit this
 repository's README.md and commit your changes. You can do this either by cloning the repository,
-committing, and pushing changes, or directly on GitHub using the built-in editing interface.
+committing, and pushing changes, or directly on GitHub using the built-in editing interface - click
+the pencil icon in the top right of this README.md file on GitHub. Please include the lecture and 
+slide number, type of problem, and a few words describing the topic.
+
+List of known practice problems and ABCD questions:
+* L03 slide 22 - practice problems on loop invariants and selection/insertion sort.
+* L14 slide 11 - practice problems on implementing the Set ADT.
+* L14 slide 16 - ABCD question on the definition of a heap.
 
